@@ -9,6 +9,7 @@ namespace QUIZ09092019
             BangunDatar kelas = new BangunDatar();
 
              Console.WriteLine("Matematika Itu Menyenangkan");
+             Console.WriteLine("QUIZ09092019");
             Console.WriteLine("-------------------------------");
             Console.WriteLine("-------------------------------");
         

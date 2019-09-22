@@ -36,7 +36,7 @@ namespace QUIZ09092019
 
             volume = sisi*sisi*sisi;
 
-            Console.WriteLine(" Luas Persegi adalah "+volume);
+            Console.WriteLine(" Volume Kubus adalah "+volume);
         }
 
     }
